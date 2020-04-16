@@ -1,4 +1,4 @@
-package csv.stauplan;
+package csv.cargo_distributor;
 
 public class Main {
     /**
