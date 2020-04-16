@@ -1,9 +1,14 @@
 package csv.cargo_distributor;
 
+/**
+ * @author carolinesvetter@gmail.com
+ */
 public class Main {
     /**
      * "Abschlussprüfung Winter 2011/12 - Fachinformatiker/in Anwendungsentwicklung - Ganzheitliche Aufgaben 1"
      * → 4. Handlungsabschnitt
+     * <p>
+     * There is just the Container class given for this task.
      * * There are 3 bays, each bay is split in 4 tiers
      * * In every bay there can be put a max amount of 4 containers
      * * Containers are distributed by descending weight: heaviest to lightest
